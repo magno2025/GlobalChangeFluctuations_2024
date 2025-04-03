@@ -1,0 +1,13 @@
+
+cff-version: 1.2.0
+title: "GlobalChangeFluctuations_2024"
+message: "Por favor, cite este trabalho usando os seguintes metadados."
+authors:
+  - given-names: Magno
+    family-names: [Seu Sobrenome]
+    affiliation: "Universidade de Granada"
+    orcid: "https://orcid.org/SEU-ORCID"
+license: MIT
+doi: 10.0000/zenodo.0000000
+date-released: 2024-07-01
+
