@@ -1,12 +1,12 @@
 
 cff-version: 1.2.0
 title: "GlobalChangeFluctuations_2024"
-message: "Por favor, cite este trabalho usando os seguintes metadados."
+message: "Please cite this work using the following metadata."
 authors:
   - given-names: Magno
     family-names: Ferreira dos Santos
-    affiliation: "Universidade de Granada"
-    orcid: "https://orcid.org/SEU-ORCID"
+    affiliation: Granada University
+    orcid: https://orcid.org/0009-0000-0985-8554
 license: MIT
 doi: 10.0000/zenodo.0000000
 date-released: 2024-07-01
