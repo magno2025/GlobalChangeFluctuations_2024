@@ -3,7 +3,7 @@
 
 ## Description
 Repository containing data and analysis for the study:  
-"How Ecological Moderators Shape Biological Responses to Multiple Global Stressors Under Environmental Fluctuations"
+Environmental Fluctuations as Hidden Drivers of Biological Responses to Global Change: Moving Beyond Averages
 
 ## Structure
 - `data/`: Raw CSV files and metadata
